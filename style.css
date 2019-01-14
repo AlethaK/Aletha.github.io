@@ -122,6 +122,11 @@ text-align : right;
 {
 color: #fff !important;
 }
+
+.display-mobile{
+display:none;
+}  
+
 .skills-bar p
 {
 margin-bottom: 6px;
